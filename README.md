@@ -12,7 +12,7 @@ Source codes, results and an example for paper "*[BANDAR: Benchmarking Snippet G
 
 ## Run
 
-To run the experiments, please following these steps: 
+To run the experiments, please follow these steps: 
 
 1. 
 2. 
