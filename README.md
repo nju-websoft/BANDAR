@@ -23,7 +23,7 @@ To run the experiments, please follow these steps:
 
 ## Citation
 
-If you use this model or code, please kindly cite it as follows:
+If you use these codes or results, please kindly cite it as follows:
 
 ```
 @inproceedings{BANDAR,
