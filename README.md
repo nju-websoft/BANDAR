@@ -10,7 +10,7 @@ Source codes, results and an example for paper "*[BANDAR: Benchmarking Snippet G
 - JDK 8+
 - MySQL 8.x
 - Apache Lucene 7.5.0
-- JGraphT 1.5.0
+- JGraphT 1.3.0
 
 ## Run
 
