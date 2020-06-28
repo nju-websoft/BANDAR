@@ -59,8 +59,8 @@ public class SnippetUtil {
                     ResultSet checkResultSet = checkStatement.executeQuery();
                     if (checkResultSet.next()){
                         String subject = id2URIMap.get(id);
-                        if (subject.startsWith("_:")) System.out.print(subject + "   .");
-                        else System.out.print("<" + subject + ">   .");
+                        if (subject.startsWith("_:")) System.out.println(subject + "   .");
+                        else System.out.println("<" + subject + ">   .");
                     }
                     else {
                         String object = id2URIMap.get(id);
