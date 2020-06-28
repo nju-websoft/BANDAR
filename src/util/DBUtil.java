@@ -13,7 +13,7 @@ public class DBUtil {
             + "useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC&autoReconnect=true";
     public static String name = "com.mysql.cj.jdbc.Driver";
     public static String user = "root";
-    public static String password = "dhf19700101";
+    public static String password = "123456";
     public Connection conn = null;
   
     public DBUtil() {
