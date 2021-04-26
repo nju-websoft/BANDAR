@@ -21,7 +21,7 @@ All source codes of implementation are provided in [src]( https://github.com/nju
 
 Dependencies include jdk 8+, MySQL 5.6+, Apache Lucene 7.5.0 and JGraphT 1.3.0, useful packages (jar files) are provided in [lib]( https://github.com/nju-websoft/BANDAR/tree/master/lib ). 
 
-#### Run an example
+### Run an example
 
 To run experiments on the example, please follow these steps: 
 
