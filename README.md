@@ -99,6 +99,7 @@ If you use these codes or results, please kindly cite it as follows:
 @article{BANDAR,
   author    = {Xiaxia Wang and Gong Cheng and Jeff Z. Pan and Evgeny Kharlamov and Yuzhong Qu},
   title     = {BANDAR: Benchmarking Snippet Generation Algorithms for Dataset Search},
+  journal   = {IEEE Transactions on Knowledge and Data Engineering},
   year      = {2021},
   doi       = {10.1109/TKDE.2021.3095309}
 }
