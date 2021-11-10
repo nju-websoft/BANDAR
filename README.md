@@ -96,9 +96,10 @@ If you want to run experiments on this example, please follow these steps:
 If you use these codes or results, please kindly cite it as follows:
 
 ```
-@inproceedings{BANDAR,
+@article{BANDAR,
   author    = {Xiaxia Wang and Gong Cheng and Jeff Z. Pan and Evgeny Kharlamov and Yuzhong Qu},
   title     = {BANDAR: Benchmarking Snippet Generation Algorithms for Dataset Search},
-  year      = {2021}
+  year      = {2021},
+  doi       = {10.1109/TKDE.2021.3095309}
 }
 ```
